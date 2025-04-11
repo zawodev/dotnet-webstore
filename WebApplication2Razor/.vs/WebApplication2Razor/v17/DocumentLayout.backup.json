@@ -1,0 +1,221 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aliks\\Documents\\GitHub\\zawodev\\dotnet-webstore\\WebApplication2Razor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5FCDE8-EB34-4B24-A107-AAFEDAED34F1}|WebApplication2Razor.csproj|c:\\users\\aliks\\documents\\github\\zawodev\\dotnet-webstore\\webapplication2razor\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC5FCDE8-EB34-4B24-A107-AAFEDAED34F1}|WebApplication2Razor.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5FCDE8-EB34-4B24-A107-AAFEDAED34F1}|WebApplication2Razor.csproj|c:\\users\\aliks\\documents\\github\\zawodev\\dotnet-webstore\\webapplication2razor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5FCDE8-EB34-4B24-A107-AAFEDAED34F1}|WebApplication2Razor.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5FCDE8-EB34-4B24-A107-AAFEDAED34F1}|WebApplication2Razor.csproj|c:\\users\\aliks\\documents\\github\\zawodev\\dotnet-webstore\\webapplication2razor\\data\\shopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5FCDE8-EB34-4B24-A107-AAFEDAED34F1}|WebApplication2Razor.csproj|solutionrelative:data\\shopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5FCDE8-EB34-4B24-A107-AAFEDAED34F1}|WebApplication2Razor.csproj|c:\\users\\aliks\\documents\\github\\zawodev\\dotnet-webstore\\webapplication2razor\\pages\\shop\\cart.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5FCDE8-EB34-4B24-A107-AAFEDAED34F1}|WebApplication2Razor.csproj|solutionrelative:pages\\shop\\cart.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5FCDE8-EB34-4B24-A107-AAFEDAED34F1}|WebApplication2Razor.csproj|c:\\users\\aliks\\documents\\github\\zawodev\\dotnet-webstore\\webapplication2razor\\pages\\shop\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC5FCDE8-EB34-4B24-A107-AAFEDAED34F1}|WebApplication2Razor.csproj|solutionrelative:pages\\shop\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5FCDE8-EB34-4B24-A107-AAFEDAED34F1}|WebApplication2Razor.csproj|c:\\users\\aliks\\documents\\github\\zawodev\\dotnet-webstore\\webapplication2razor\\pages\\shop\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC5FCDE8-EB34-4B24-A107-AAFEDAED34F1}|WebApplication2Razor.csproj|solutionrelative:pages\\shop\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5FCDE8-EB34-4B24-A107-AAFEDAED34F1}|WebApplication2Razor.csproj|c:\\users\\aliks\\documents\\github\\zawodev\\dotnet-webstore\\webapplication2razor\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5FCDE8-EB34-4B24-A107-AAFEDAED34F1}|WebApplication2Razor.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5FCDE8-EB34-4B24-A107-AAFEDAED34F1}|WebApplication2Razor.csproj|c:\\users\\aliks\\documents\\github\\zawodev\\dotnet-webstore\\webapplication2razor\\models\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5FCDE8-EB34-4B24-A107-AAFEDAED34F1}|WebApplication2Razor.csproj|solutionrelative:models\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5FCDE8-EB34-4B24-A107-AAFEDAED34F1}|WebApplication2Razor.csproj|c:\\users\\aliks\\documents\\github\\zawodev\\dotnet-webstore\\webapplication2razor\\pages\\shop\\products.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5FCDE8-EB34-4B24-A107-AAFEDAED34F1}|WebApplication2Razor.csproj|solutionrelative:pages\\shop\\products.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5FCDE8-EB34-4B24-A107-AAFEDAED34F1}|WebApplication2Razor.csproj|c:\\users\\aliks\\documents\\github\\zawodev\\dotnet-webstore\\webapplication2razor\\pages\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC5FCDE8-EB34-4B24-A107-AAFEDAED34F1}|WebApplication2Razor.csproj|solutionrelative:pages\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5FCDE8-EB34-4B24-A107-AAFEDAED34F1}|WebApplication2Razor.csproj|c:\\users\\aliks\\documents\\github\\zawodev\\dotnet-webstore\\webapplication2razor\\pages\\shop\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5FCDE8-EB34-4B24-A107-AAFEDAED34F1}|WebApplication2Razor.csproj|solutionrelative:pages\\shop\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5FCDE8-EB34-4B24-A107-AAFEDAED34F1}|WebApplication2Razor.csproj|c:\\users\\aliks\\documents\\github\\zawodev\\dotnet-webstore\\webapplication2razor\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC5FCDE8-EB34-4B24-A107-AAFEDAED34F1}|WebApplication2Razor.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 74,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cart.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\aliks\\Documents\\GitHub\\zawodev\\dotnet-webstore\\WebApplication2Razor\\Pages\\Shop\\Cart.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Shop\\Cart.cshtml.cs",
+              "ToolTip": "C:\\Users\\aliks\\Documents\\GitHub\\zawodev\\dotnet-webstore\\WebApplication2Razor\\Pages\\Shop\\Cart.cshtml.cs",
+              "RelativeToolTip": "Pages\\Shop\\Cart.cshtml.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAqwCoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T00:03:39.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShopDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\aliks\\Documents\\GitHub\\zawodev\\dotnet-webstore\\WebApplication2Razor\\Data\\ShopDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ShopDbContext.cs",
+              "ToolTip": "C:\\Users\\aliks\\Documents\\GitHub\\zawodev\\dotnet-webstore\\WebApplication2Razor\\Data\\ShopDbContext.cs",
+              "RelativeToolTip": "Data\\ShopDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T00:24:09.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aliks\\Documents\\GitHub\\zawodev\\dotnet-webstore\\WebApplication2Razor\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\aliks\\Documents\\GitHub\\zawodev\\dotnet-webstore\\WebApplication2Razor\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T22:40:32.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Article.cs",
+              "DocumentMoniker": "C:\\Users\\aliks\\Documents\\GitHub\\zawodev\\dotnet-webstore\\WebApplication2Razor\\Models\\Article.cs",
+              "RelativeDocumentMoniker": "Models\\Article.cs",
+              "ToolTip": "C:\\Users\\aliks\\Documents\\GitHub\\zawodev\\dotnet-webstore\\WebApplication2Razor\\Models\\Article.cs",
+              "RelativeToolTip": "Models\\Article.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T00:24:31.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\aliks\\Documents\\GitHub\\zawodev\\dotnet-webstore\\WebApplication2Razor\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Users\\aliks\\Documents\\GitHub\\zawodev\\dotnet-webstore\\WebApplication2Razor\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T00:24:35.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\aliks\\Documents\\GitHub\\zawodev\\dotnet-webstore\\WebApplication2Razor\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\aliks\\Documents\\GitHub\\zawodev\\dotnet-webstore\\WebApplication2Razor\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAC4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T00:15:49.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\aliks\\Documents\\GitHub\\zawodev\\dotnet-webstore\\WebApplication2Razor\\Pages\\Shop\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shop\\Index.cshtml",
+              "ToolTip": "C:\\Users\\aliks\\Documents\\GitHub\\zawodev\\dotnet-webstore\\WebApplication2Razor\\Pages\\Shop\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Shop\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwgAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T00:07:27.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cart.cshtml",
+              "DocumentMoniker": "C:\\Users\\aliks\\Documents\\GitHub\\zawodev\\dotnet-webstore\\WebApplication2Razor\\Pages\\Shop\\Cart.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shop\\Cart.cshtml",
+              "ToolTip": "C:\\Users\\aliks\\Documents\\GitHub\\zawodev\\dotnet-webstore\\WebApplication2Razor\\Pages\\Shop\\Cart.cshtml",
+              "RelativeToolTip": "Pages\\Shop\\Cart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T00:02:42.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Products.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\aliks\\Documents\\GitHub\\zawodev\\dotnet-webstore\\WebApplication2Razor\\Pages\\Shop\\Products.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Shop\\Products.cshtml.cs",
+              "ToolTip": "C:\\Users\\aliks\\Documents\\GitHub\\zawodev\\dotnet-webstore\\WebApplication2Razor\\Pages\\Shop\\Products.cshtml.cs",
+              "RelativeToolTip": "Pages\\Shop\\Products.cshtml.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAmwEIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T23:54:45.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Products.cshtml",
+              "DocumentMoniker": "C:\\Users\\aliks\\Documents\\GitHub\\zawodev\\dotnet-webstore\\WebApplication2Razor\\Pages\\Shop\\Products.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shop\\Products.cshtml",
+              "ToolTip": "C:\\Users\\aliks\\Documents\\GitHub\\zawodev\\dotnet-webstore\\WebApplication2Razor\\Pages\\Shop\\Products.cshtml",
+              "RelativeToolTip": "Pages\\Shop\\Products.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-07T21:00:18.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\aliks\\Documents\\GitHub\\zawodev\\dotnet-webstore\\WebApplication2Razor\\Pages\\Shop\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Shop\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\aliks\\Documents\\GitHub\\zawodev\\dotnet-webstore\\WebApplication2Razor\\Pages\\Shop\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Shop\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T23:54:40.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\aliks\\Documents\\GitHub\\zawodev\\dotnet-webstore\\WebApplication2Razor\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\aliks\\Documents\\GitHub\\zawodev\\dotnet-webstore\\WebApplication2Razor\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-07T20:26:05.707Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
